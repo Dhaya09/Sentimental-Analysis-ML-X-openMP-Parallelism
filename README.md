@@ -104,14 +104,6 @@ Predicted Sentiment: Positive 😊
 
 ---
 
-## 👨‍💻 Team Members
-
-- **Dhayanidhi S** – 23BIT0214  
-- **Harisankaran M** – 23BIT0150  
-- **Prashaanth Raj** – 23BIT0173
-
----
-
 ## 📚 References
 
 1. Pang, B., & Lee, L. (2008). *Opinion mining and sentiment analysis*.
