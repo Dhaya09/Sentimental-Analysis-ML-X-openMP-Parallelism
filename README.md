@@ -16,7 +16,7 @@ A high-performance implementation of a sentiment analysis model using **Numba**-
 
 ## 📁 Dataset
 
-- Source : [text](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
+- Source : [DataSet](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - Input file: `movie_reviews.csv`
 - Required columns:
   - `review`: Free-form movie review text
