@@ -77,7 +77,7 @@ Predicted Sentiment: Positive 😊
 
 | Setup                          | Training Time | Accuracy |
 |-------------------------------|---------------|----------|
-| Without Numba/OpenMP (100 epochs) | ~120 sec      | ~75%     |
+| Without Numba/OpenMP (100 epochs) | ~140 sec      | ~75%     |
 | With Numba + OpenMP (100 epochs) | ~60 sec       | ~75%     |
 | With Numba + OpenMP (50 epochs)  | ~30 sec       | ~70%     |
 
