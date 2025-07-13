@@ -46,6 +46,7 @@ numba>=0.53.0
 
 ```bash
 python sentiment_analysis.py
+python sentiment_analysis_openMP.py
 ```
 
 What it does:
